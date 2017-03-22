@@ -6,6 +6,7 @@ It has user interface, choose file from the computer at first, then click BALLOT
 > 2. Click BALLOT, adjust number of person in each class.
 > 3. Click START!
 
-![1](./image/1.png)
 <hr />
+
+![1](./image/1.png)
 ![3](./image/3.png)
