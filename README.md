@@ -7,3 +7,5 @@ It has user interface, choose file from the computer at first, then click BALLOT
 > 3. Click START!
 
 ![1](./image/1.png)
+<hr />
+![3](./image/3.png)
